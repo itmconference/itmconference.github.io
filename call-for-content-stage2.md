@@ -6,10 +6,9 @@ sidenote1: <p><a href='../faq'>Frequently Asked Questions</a> [ new ! ]</p>
 sidenote2: <p>Submissions due November 9th 2019 and <a href='https://trb.secure-platform.com/a/solicitations/home/21'>must be submitted electronically.</a>
 sidenote3: <p>Questions? Contact Jennifer L. Weeks at <a href='mailto://jlweeks@nas.edu'>JLWeeks@nas.edu</a>.
 sidenote4: <p>Missed the Initial Call for Content deadline but still have something you would like to present?  Stay tuned for a possible call for 'late breaking' innovations in early 2020.</p>
-sidenote5: <p>Not sure about your submission? <a href='elizabeth@urbanlabs.io'>Reach out to us</a> and we would be happy to work with you on it.</p>
-sidenote6: <p><a href='/call-for-content-stage1'>Stage 1 call.</a></p>
+sidenote5: <p><a href='/call-for-content-stage1'>Stage 1 call.</a></p>
 ---
-** Stage 2 Submissions are due November 9th, 2019 **
+**Stage 2 Submissions are due November 9th, 2019**
 
 The Transportation Research Board Innovations in Travel Modeling Conference will be held in the Summer of 2020 in Seattle, WA. The Organizing Committee has selected the following four technical issues to focus the conference around: data solutions, modeling approaches, useful forecasts, and getting there in the real world and is seeking content submissions that further our knowledge and understanding of them.  
 
@@ -46,7 +45,7 @@ For your next submission as an innovation for discussion, we would like to see a
  
 ### Lectures
 
-For your next submission as a lecture, we would like an annotated lesson plan of no more than 5 pages which includes:
+For your next submission as a lecture, we would like an annotated lesson plan of no more than five pages which includes:
 
  *  List of lecture objectives (e.g.. by the end of this lecture, attendees will be able to…)
  *  Motivation, or an explanation of why these objectives are important (e.g. this concept is increasingly important in the field of travel analysis because…..)
