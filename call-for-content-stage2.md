@@ -2,7 +2,7 @@
 layout: default
 title: TRB Innovations in Travel Modeling Conference</br>Call for Content Part 2
 subtitle: Summer 2020 in Seattle, WA
-sidenote1: <p><a href='../faq'>Frequently Asked Questions</a> [ new ! ]</p>
+sidenote1: <p><a href='../faq'>Frequently Asked Questions</a></p>
 sidenote2: <p>Submissions due November 9th 2019 and <a href='https://trb.secure-platform.com/a/solicitations/home/21'>must be submitted electronically.</a>
 sidenote3: <p>Questions? Contact Jennifer L. Weeks at <a href='mailto://jlweeks@nas.edu'>JLWeeks@nas.edu</a>.
 sidenote4: <p>Missed the Initial Call for Content deadline but still have something you would like to present?  Stay tuned for a possible call for 'late breaking' innovations in early 2020.</p>
