@@ -28,10 +28,10 @@ For your next submission as a tutorial, we would like an annotated lesson plan o
 
  *  List of tutorial objectives (e.g.. by the end of this tutorial, attendees will be able to…)  
  *  Motivation, or an explanation of why these objectives are important (e.g. this skill is increasingly important in the field of travel analysis because…..)
- *  Prerequisites for attendees including recommended methods for gaining them (i.e. an online tutorial, a MOOC,  a textbook etc.)  
+ *  Prerequisites for attendees, including recommended methods for gaining them (i.e. an online tutorial, a MOOC,  a textbook etc.)  
  *  Delivery mechanism and technology requirements (e.g. This tutorial will use an interactive Jupyter Notebook.  In order to follow along with this tutorial, participants must have access to the following GitHub site and have downloaded and installed the following required software… )  
- *  Lesson segment descriptions and timing  
- *  Equipment required by attendees and at the venue
+ *  Lesson segment descriptions and timing/duration  
+ *  Equipment required by attendees and required at the venue
 
 ### Innovations for Discussion
 
