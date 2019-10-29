@@ -6,19 +6,23 @@
   - name: University of Washington
     img: img/uw-logo.png
     link: http://washington.edu
-- label: Electric-Bus
+- label: Platinum
   sponsors:
   - name: your name here
     img:
-    link: #
-
-- label: E-Bike
+    link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-35-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: Gold
   sponsors:
   - name: your name here
     img:
-    link: #
-- label: Scooter
+    link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-35-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: Silver
   sponsors:
   - name: your name here
     img:
-    link: #
+    link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-35-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: Bronze
+  sponsors:
+  - name: your name here
+    img:
+    link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-35-411292339ce9482b9caa1fc898fc1a9e.aspx
