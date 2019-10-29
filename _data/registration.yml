@@ -1,18 +1,24 @@
-- label: Early-bird
-  price: TBD
+- label: General
+  price: 650
   notes:
-  - Before predetermined cut-off date.
-  button: check back to purchase.
-  link: #
-- label: Regular
-  price: TBD
+  - *Early Bird Price thru March 15, then increases to $725 thru May 15th and then $800
+  button: Register
+  link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/event-summary-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: Speaker / TRB Sponsor
+  price: 575
   notes:
-  - Before week of conference.
-  button: check back to purchase.
-  link: #
-- label: On-Site
-  price: TBD
+  - *Early Bird Price thru March 15, then increases to $650 thru May 15th and then $725
+  button: Register
+  link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/event-summary-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: Student
+  price: 300
   notes:
-  - Week of conference.
-  button: check back to purchase.
-  link: #
+  - *Early Bird Price thru March 15, then increases to $375 thru May 15th and then $450
+  button: Register
+  link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/event-summary-411292339ce9482b9caa1fc898fc1a9e.aspx
+- label: One Day
+  price: 375
+  notes:
+  - *Early Bird Price thru March 15, then increases to $450 thru May 15th and then $525
+  button: Register
+  link: http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/event-summary-411292339ce9482b9caa1fc898fc1a9e.aspx
