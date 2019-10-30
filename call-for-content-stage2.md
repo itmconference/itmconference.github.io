@@ -3,23 +3,23 @@ layout: default
 title: TRB Innovations in Travel Modeling Conference</br>Call for Content Part 2
 subtitle: Summer 2020 in Seattle, WA
 sidenote1: <p><a href='../faq'>Frequently Asked Questions</a></p>
-sidenote2: <p>Submissions due November 9th 2019 and <a href='https://trb.secure-platform.com/a/solicitations/home/21'>must be submitted electronically.</a>
+sidenote2: <p>Submissions due November 25th 2019 and <a href='https://trb.secure-platform.com/a/solicitations/home/21'>must be submitted electronically.</a>
 sidenote3: <p>Questions? Contact Jennifer L. Weeks at <a href='mailto://jlweeks@nas.edu'>JLWeeks@nas.edu</a>.
 sidenote4: <p>Missed the Initial Call for Content deadline but still have something you would like to present?  Stay tuned for a possible call for 'late breaking' innovations in early 2020.</p>
 sidenote5: <p><a href='/call-for-content-stage1'>Stage 1 call.</a></p>
 ---
-**Stage 2 Submissions are due November 9th, 2019**
+**Stage 2 Submissions are now due November 25th, 2019**
 
 The Transportation Research Board Innovations in Travel Modeling Conference will be held in the Summer of 2020 in Seattle, WA. The Organizing Committee has selected the following four technical issues to focus the conference around: data solutions, modeling approaches, useful forecasts, and getting there in the real world and is seeking content submissions that further our knowledge and understanding of them.  
 
 ## Submission and Review Process
-Content review will occur in two stages.  Stage 1 submissions were be screened by the conference organizing committee based on how well the proposed content fits within the vision of the conference in addition to the quality of the content itself.  Sessions were prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized. 
+Content review will occur in two stages.  Stage 1 submissions were be screened by the conference organizing committee based on how well the proposed content fits within the vision of the conference in addition to the quality of the content itself.  Sessions were prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized.
 
-Submissions invited to submit content for Stage 2 require an additional, longer-form submission, the format of which will be dependent upon the type of content that is proposed. Authors should receive specific instructions from a conference planning committee member about the format and content of your Stage 2 submission, which will be dependent on the type of content you are proposing. 
+Submissions invited to submit content for Stage 2 require an additional, longer-form submission, the format of which will be dependent upon the type of content that is proposed. Authors should receive specific instructions from a conference planning committee member about the format and content of your Stage 2 submission, which will be dependent on the type of content you are proposing.
 
 ## Stage 2 Submission Instructions
 
-The structure of your Stage 2 submission is dependent upon the content type you are submitting. You will receive an email from a content organizer directing you to which of these formats you should follow. Feel free to reach out to your content organizer while you are developing your proposal to get their help with filling any gaps in your session or otherwise assist you.   Additionally, please consider any additional comments that were conveyed in your decision email. 
+The structure of your Stage 2 submission is dependent upon the content type you are submitting. You will receive an email from a content organizer directing you to which of these formats you should follow. Feel free to reach out to your content organizer while you are developing your proposal to get their help with filling any gaps in your session or otherwise assist you.   Additionally, please consider any additional comments that were conveyed in your decision email.
 
 *Please note that all sessions must demonstrate representation from a diverse set of backgrounds in order to be considered.*
 
@@ -38,11 +38,11 @@ For your next submission as a tutorial, we would like an annotated lesson plan o
 For your next submission as an innovation for discussion, we would like to see a short technical paper of no more than seven  pages which includes:
 
  *  Objective  
- *  Motivation, or an explanation of why these objectives are important (i.e. the “so what” of your work) 
+ *  Motivation, or an explanation of why these objectives are important (i.e. the “so what” of your work)
  *  Technical content describing the innovation  
  *  Known shortcomings or boundaries of the work  
  *  References  
- 
+
 ### Lectures
 
 For your next submission as a lecture, we would like an annotated lesson plan of no more than five pages which includes:
@@ -52,7 +52,7 @@ For your next submission as a lecture, we would like an annotated lesson plan of
  *  Prerequisites for attendees including recommended methods for gaining them (i.e. an online tutorial, a MOOC,  a textbook etc.)
  *  Lesson segment descriptions and timing
  *  References
- 
+
 ### Full Sessions
 
 For your next submission as a full session, we would like an annotated session proposal of no more than 10 pages which includes:
