@@ -1,26 +1,52 @@
 - day: Sunday
-  agenda: 
-  - time: ~9:00-5:00
+  agenda:
+  - time: 11:00 ->
+    name: Registration Opens
+  - time: 1:00-5:00
     name: Learn
-    detail: learn the lingo and basics of machine learning.
+    detail: Tutorials, lectures, and learning.
   - time: Evening
-    name: learning with fun
+    name: Dine Around (tentative)
 - day: Monday
-  agenda: 
-  - time: ~9:00-5:00
-    name: Discuss
+  agenda:
+  - time: 8:00 - 9:30
+    name: Breakouts
+    detail: technical presentations with formal critiques and discussions
+  - time: 10:00 - 12:00
+    name: Opening Plenary
+    detail: Welcome, keynote speaker, and 'best of' presentations
+  - time: 12:00 - 1:30
+    name: Lunch
+    detail: "on your own"
+  - time: 1:30 - 3:00
+    name: Breakouts
+    detail: technical presentations with formal critiques and discussions
+  - time: 3:30 - 5:00
+    name: Breakouts
     detail: technical presentations with formal critiques and discussions
   - time: Evening
-    name: networking
+    name: Reception (tentative)
 - day: Tuesday
-  agenda: 
-  - time: ~9:00-5:00
-    name: Discuss
+  agenda:
+  - time: 8:00 - 9:30
+    name: Breakouts
     detail: technical presentations with formal critiques and discussions
+  - time: 10:00 - 12:00
+    name: Breakouts
+    detail: technical presentations with formal critiques and discussions
+  - time: 12:00 - 1:30
+    name: Lunch
+    detail: "on your own"
+  - time: 1:30 - 3:00
+    name: Breakouts
+    detail: technical presentations with formal critiques and discussions
+  - time: 3:30 - 5:00
+    name: Plenary
+    detail: important issues facing travel modelers
   - time: Evening
-    name: spotlight discussion
+    name: Networking event
 - day: Wednesday
-  agenda: 
-  - time: ~9:00-4:00
+  agenda:
+  - time: ~9:00-12:00
     name: Synthesize
     detail: What did we learn and what do we do next?
