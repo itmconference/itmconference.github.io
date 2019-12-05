@@ -10,7 +10,7 @@ title: 2020 Innovations in Travel Modeling Conference
             <h1>{{ site.event-title }}</h1>
             <p class="lead">{{ site.event-tagline }}</p>
             <h4><a href="http://eepurl.com/gup0yn"><i class="fas fa-envelope"></i>&nbspKeep up-to-date.<br/> Sign up for our email list</a></h4>
-            <a href="{{ site.baseurl }}/call-for-content-stage2"><button type="button" class="btn btn-primary">Call for Content: Instructions for Stage 2</button></a>
+            <a href="#section-agenda"><button type="button" class="btn btn-primary">Announcing Robert Lempert as our Keynote Speaker</button></a>
 
         </div>
     </div>
@@ -78,49 +78,14 @@ Institutional structures and technology transfer in order to use the most approp
     </section>
     <!-- .about-event -->
 
-    <section id="section-previous" class="section-wrapper team gray-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-title">
-                        <h1>CONFERENCE HISTORY</h1>
-                    </div>
-                </div>
-                <p class="lead">
-The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) conference series has become the leading venue for researchers and practitioners to come together and discuss, debate, and share information about advances in travel analysis and modeling methods. The ITM conference series is intended to bridge the gap between research and practice and help accelerate the deployment of new methods, tools, technologies, and algorithms in freight and passenger travel forecasting model systems.
-                </p>
-                <p class="lead">
-                        The conference series was launched in 2006 and is held every other year.
-                </p>
-            </div>
-            <div class="row">
-            {% for conf in site.data.conferences %}
-            <div class="col-sm-6 col-md-3">
-                <figure class="thumbnail">
-                <a href="{{ conf.website }}">
-                    {% if conf.img %}<img src="{{ conf.img }}" class="img-responsive" alt="Image">{% endif %}
-                    <figcaption class="caption text-center">
-                        <h3>{{ conf.year }}
-                        <small>{{ conf.location }}</small>
-                        </h3>
-                    </figcaption>
-                </a>
-                 </figure>
-                </div>
-            {% endfor %}
-            </div>
-            <!-- .row -->
-        </div>
-        <!-- /.container -->
-    </section>
-    <!-- .team -->
+
 
     <section id="section-agenda" class="section-wrapper section-agenda">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h1>ROUGH FORMAT</h1>
+                        <h1>CONFERENCE FORMAT</h1>
                         <h3>[-subject to change-]</h3>
                         <p>Each attendee will be assigned a participating role, either as a presenter, moderator, or discussant.</p>
                     </div>
@@ -129,7 +94,18 @@ The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) con
 
             <div class="row">
             <div class="col-md-12">
-            <h2>Types of Sessions Envisioned</h2>
+            <h2>Keynote Speaker</h2>
+            <p><a href="https://www.rand.org/about/people/l/lempert_robert_j.html">Robert Lempert</a> is a principal researcher at the RAND Corporation and Director of the Frederick S. Pardee Center for Longer Range Global Policy and the Future Human Condition. His research focuses on risk management and decision-making under conditions of deep uncertainty, with an emphasis on climate change, energy, and the environment.  Dr. Lempert is a chapter lead author for the United Nation’s Intergovernmental Panel on Climate Change (IPCC), and he wrote the book on decision making under uncertainty — <a href="https://www.rand.org/pubs/monograph_reports/MR1626.html">literally.</a></p>
+
+            <p>His insights into robust decision making have formed the foundation of travel modeling community’s recent efforts to develop more useful forecasts that account for risk and uncertainty in a systematic, quantitative manner, including a lot of the work we will discuss at ITM. He has extensive experience in communicating complex technical issues in an approachable manner, and we look forward to learning from his experience and global leadership on transforming uncertainty into opportunity, vulnerability into resilience, and abstract models into concrete results.</p>
+
+            <p>Many thanks to Jeffrey Newman for making this keynote happen.</p>
+            </div>
+            </div>
+
+            <div class="row">
+            <div class="col-md-12">
+            <h2>Types of Sessions</h2>
             <p>These are brainstorms, and will be informed by submissions received</p>
             </div>
             <div class="col-md-4">
@@ -237,6 +213,7 @@ The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) con
                     <div class="section-title">
                         <h1>PARTNERS</h1>
                     </div>
+                    <p><a href="http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-35-411292339ce9482b9caa1fc898fc1a9e.aspx">Register as a patron or exhibitor now!</a>  Space is limited</p>
                 </div>
             </div>
             {% for tier in site.data.sponsors %}
@@ -265,8 +242,11 @@ The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) con
                 <div class="col-md-12">
                     <div class="section-title">
                         <h1>VENUE</h1>
-                        <p>Seattle, WA.</p>
-                        <p>Precise venue to be determined, Winter 2019.</p>
+                        <p>The 2020 ITM conference will be held at the brand new <a href="https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears">Hyatt Regency Seattle</a> located at <a href="https://www.google.com/maps/place/Hyatt+Regency+Seattle/@47.6147059,-122.3361666,17z/data=!3m1!4b1!4m8!3m7!1s0x54906be04b660547:0xe43a49eea47700a4!5m2!4m1!1i2!8m2!3d47.6147059!4d-122.3339779">808 Howell Street Seattle WA</a></p>
+                        <p>The hotel is easily reachable from SeaTac International Airport via <a href="https://www.soundtransit.org/">LINK light rail<a>.</p>
+                        <img src="https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/05/1018/Hyatt-Regency-Seattle-P107-Exterior.jpg/Hyatt-Regency-Seattle-P107-Exterior.16x9.jpg?imwidth=1280"  width=400></img>
+                        <p>Room block information on the <a href="http://www.cvent.com/events/trb-8th-innovations-in-travel-modeling-conference/custom-17-411292339ce9482b9caa1fc898fc1a9e.aspx">TRB registration site</a></p>
+
                     </div>
                 </div>
             </div>
@@ -275,3 +255,40 @@ The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) con
 
         </div>
     </section>
+
+    <section id="section-previous" class="section-wrapper team gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>CONFERENCE HISTORY</h1>
+                    </div>
+                </div>
+                <p class="lead">
+The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) conference series has become the leading venue for researchers and practitioners to come together and discuss, debate, and share information about advances in travel analysis and modeling methods. The ITM conference series is intended to bridge the gap between research and practice and help accelerate the deployment of new methods, tools, technologies, and algorithms in freight and passenger travel forecasting model systems.
+                </p>
+                <p class="lead">
+                        The conference series was launched in 2006 and is held every other year.
+                </p>
+            </div>
+            <div class="row">
+            {% for conf in site.data.conferences %}
+            <div class="col-sm-6 col-md-3">
+                <figure class="thumbnail">
+                <a href="{{ conf.website }}">
+                    {% if conf.img %}<img src="{{ conf.img }}" class="img-responsive" alt="Image">{% endif %}
+                    <figcaption class="caption text-center">
+                        <h3>{{ conf.year }}
+                        <small>{{ conf.location }}</small>
+                        </h3>
+                    </figcaption>
+                </a>
+                 </figure>
+                </div>
+            {% endfor %}
+            </div>
+            <!-- .row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- .team -->
