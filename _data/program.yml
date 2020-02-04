@@ -1,52 +1,52 @@
 - day: Sunday
   agenda:
-  - time: 11:00 ->
+  - time: AM
     name: Registration Opens
-  - time: 1:00-5:00
+  - time: PM
     name: Learn
     detail: Tutorials, lectures, and learning.
   - time: Evening
     name: Dine Around (tentative)
 - day: Monday
   agenda:
-  - time: 8:00 - 9:30
+  - time: AM1
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
-  - time: 10:00 - 12:00
+  - time: AM2
     name: Opening Plenary
     detail: Welcome, keynote speaker Robert Lempert, and 'best of' presentations
-  - time: 12:00 - 1:30
+  - time: Midday
     name: Lunch
     detail: "on your own"
-  - time: 1:30 - 3:00
+  - time: PM1
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
-  - time: 3:30 - 5:00
+  - time: PM2
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
   - time: Evening
     name: Reception (tentative)
 - day: Tuesday
   agenda:
-  - time: 8:00 - 9:30
+  - time: AM1
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
-  - time: 10:00 - 12:00
+  - time: AM2
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
-  - time: 12:00 - 1:30
+  - time: Midday
     name: Lunch
     detail: "on your own"
-  - time: 1:30 - 3:00
+  - time: PM1
     name: Breakouts
     detail: technical presentations with formal critiques and discussions
-  - time: 3:30 - 5:00
+  - time: PM2
     name: Plenary
     detail: important issues facing travel modelers
   - time: Evening
     name: Networking event
 - day: Wednesday
   agenda:
-  - time: ~9:00-12:00
+  - time: AM
     name: Synthesize
     detail: What did we learn and what do we do next?
