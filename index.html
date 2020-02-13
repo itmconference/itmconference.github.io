@@ -138,22 +138,7 @@ Institutional structures and technology transfer in order to use the most approp
             </div>
             <!-- .row -->
 
-            <div class="row">
-            {% for day in site.data.program %}
-            <div class="col-md-3">
-                <h2>{{ day.day }}</h2>
-                {% for agenda-item in day.agenda %}
-                    <div class="session">
-                        <time>{{ agenda-item.time }}</time>
-                        <h3>{{ agenda-item.name }}</h3>
-                        <p>{{ agenda-item.detail }}</p>
-                    </div>
-                {% endfor %}
-            </div>
-            {% endfor %}
 
-             <!-- .row -->
-            </div>
         <!-- .container-->
         </div>
     </section>
